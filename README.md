@@ -3,7 +3,7 @@ An Arduino library for building a <b>Unconfirmed Data Up</b> LoRaWAN packet for 
 
 This source code intent for quick testing on LoRaWAN communication only.
 
-MCU Resource requirements (<i>Results built on <b>Arduino Pro Mini (ATMEGA328P - 32kB Flash | 2 kB RAM)</b></i>)
+MCU Resource requirements (<i>Results built on <b>Arduino Pro Mini (ATMEGA328P - 32kB Flash | 2 kB RAM)</b></i>
 ![AVR-Resource-Requirements](docs/3.png)
 
 Example output
@@ -12,7 +12,10 @@ Example output
 Decode the above example output
 ![Testing-result-decode](docs/2.png)
 
-Decoding website:
+<u>Decoding website</u>: [https://lorawan-packet-decoder-0ta6puiniaut.runkit.sh](https://lorawan-packet-decoder-0ta6puiniaut.runkit.sh)
+
+
+For anyone prefer copy & paste
 ```
 https://lorawan-packet-decoder-0ta6puiniaut.runkit.sh
 ```
