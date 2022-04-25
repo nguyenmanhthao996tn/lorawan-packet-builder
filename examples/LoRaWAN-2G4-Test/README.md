@@ -5,11 +5,12 @@ Install RadioLib library first!
 RadioLib Library: https://github.com/jgromes/RadioLib
 
 # [RFThings](https://rfthings.com.vn/) Poker Chip device
-* MCU: ATMEGA328P
-* LoRa Transceiver: SX1280
-* Sensor: BME280
+* <b>MCU</b>: ATMega328P
+* <b>LoRa Transceiver</b>: SX1280 (<i>SemTech LoRa 2.4GHz Transceiver</i>)
+* <b>Sensor</b>: BMP280 (<i>Barometric pressure sensor</i>)
+* <b>Dimensions</b>: 30mm x 30mm x 15mm (<i>Battery not included</i>)
 
-Contact:
+Contact RFThings for further information on this device:
 * [RFThings Website](https://rfthings.com.vn/)
 * [RFThings Support Email](mailto://support@rfthings.com.vn)
 
