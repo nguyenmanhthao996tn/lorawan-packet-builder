@@ -10,9 +10,15 @@ RadioLib Library: https://github.com/jgromes/RadioLib
 * <b>Sensor</b>: BMP280 (<i>Barometric pressure sensor</i>)
 * <b>Dimensions</b>: 30mm x 30mm x 15mm (<i>Battery not included</i>)
 
-Contact RFThings for further information on this device:
-* [RFThings Website](https://rfthings.com.vn/)
-* [RFThings Support Email](mailto://support@rfthings.com.vn)
+### Contact RFThings for further information on this device
+* [RFThings Website](https://rfthings.com.vn/):
+```
+https://rfthings.com.vn/
+```
+* [RFThings Support Email](mailto:support@rfthings.com.vn):
+```
+support@rfthings.com.vn
+```
 
 ![end-device-1](/docs/end-device-1.jpg)
 ![end-device-2](/docs/end-device-2.jpg)
